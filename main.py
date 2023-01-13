@@ -17,3 +17,6 @@ edges = cv2.bitwise_not(edges)
 
 # save sketch
 cv2.imwrite('sketch.jpg', edges)
+
+
+# To use
