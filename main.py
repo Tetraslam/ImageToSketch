@@ -19,4 +19,4 @@ edges = cv2.bitwise_not(edges)
 cv2.imwrite('sketch.jpg', edges)
 
 
-# To use, add an image
+# To use, add an image called ""
